@@ -52,6 +52,30 @@ I'm a passionate **Full-Stack Web3 Developer** building the future of decentrali
 
 ---
 
+## 💻 Coding Experience & Skills
+
+### **Programming Languages**
+- **Solidity** - Advanced smart contract development, DeFi protocols, ERC standards
+- **TypeScript/JavaScript** - Full-stack development, React/Next.js applications
+- **Python** - Data analysis, automation, backend services
+- **Rust** - Performance-critical applications, blockchain development
+
+### **Development Experience**
+- **3+ Years** in Web3 and blockchain development
+- **Smart Contract Security** - Auditing, testing, and best practices
+- **DeFi Protocol Development** - AMMs, lending protocols, yield farming
+- **Full-Stack dApp Development** - End-to-end Web3 applications
+- **Open Source Contribution** - Active participation in Web3 ecosystem
+
+### **Specialized Skills**
+- **Gas Optimization** - Efficient smart contract design
+- **Cross-Chain Development** - Multi-chain DeFi protocols
+- **Web3 Integration** - Wallet connections, transaction handling
+- **Security Best Practices** - Reentrancy protection, access control
+- **Testing & Deployment** - Comprehensive testing strategies
+
+---
+
 ## 🏗️ Featured Projects
 
 ### 🔥 **stable-coin** - DeFi Stablecoin Protocol
@@ -61,12 +85,24 @@ I'm a passionate **Full-Stack Web3 Developer** building the future of decentrali
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-FF6B35?style=flat-square&logo=foundry)
 
+**Key Features:**
+- Collateralized stablecoin system
+- Automated price stabilization
+- Multi-collateral support
+- Comprehensive test suite
+
 ### 🦄 **uniswapv3** - Custom AMM Implementation
 > Uniswap V3 integration with custom pool management and advanced trading features.
 
 [![View Project](https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github)](https://github.com/niceDanzel/uniswapv3)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![DeFi](https://img.shields.io/badge/DeFi-000000?style=flat-square&logo=defi)
+
+**Key Features:**
+- Concentrated liquidity pools
+- Custom fee structures
+- Advanced position management
+- Gas-optimized trading
 
 ### ⚡ **SUI-components** - SUI Blockchain Components
 > TypeScript components and utilities for building on the SUI blockchain ecosystem.
@@ -75,55 +111,38 @@ I'm a passionate **Full-Stack Web3 Developer** building the future of decentrali
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 ![SUI](https://img.shields.io/badge/SUI-6FBBCA?style=flat-square&logo=sui)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niceDanzel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niceDanzel&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceDanzel&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="GitHub Activity Graph" />
-</div>
+**Key Features:**
+- Reusable UI components
+- SUI SDK integration
+- Type-safe development
+- Performance optimization
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Goals
 
+### **Active Development**
 - 🔥 **Building DeFi Protocols** - Creating innovative financial primitives
 - 🛡️ **Smart Contract Security** - Implementing best practices and audits
 - 🌐 **Web3 UX** - Making blockchain accessible to everyone
 - 🤝 **Open Source** - Contributing to the Web3 ecosystem
 
----
+### **Learning Goals**
+- **Zero-Knowledge Proofs** - Privacy-preserving blockchain solutions
+- **Layer 2 Scaling** - Optimistic and ZK rollups
+- **Cross-Chain Interoperability** - Multi-chain DeFi protocols
+- **Advanced DeFi Mechanisms** - Complex financial instruments
 
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/niceDanzel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+### **Professional Development**
+- **Technical Writing** - Sharing knowledge with the community
+- **Mentorship** - Helping new developers enter Web3
+- **Conference Speaking** - Presenting at blockchain events
+- **Protocol Design** - Creating innovative DeFi solutions
 
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Ready+to+build+the+future+of+DeFi;Let's+connect+and+collaborate!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niceDanzel&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
